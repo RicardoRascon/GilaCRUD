@@ -60,6 +60,7 @@ function Producto() {
 
   const abrirCerrarModalInsertar = () => {
     setModalInsertar(!modalInsertar);
+    setAtributosCategorias([]);
   };
 
   const abrirCerrarModalEditar = () => {
@@ -97,10 +98,10 @@ function Producto() {
       productoSeleccionado.categoriaId == ""
         ? "-1"
         : productoSeleccionado.categoriaId;
-    const productoId =
+    let productoId =
       productoSeleccionado.id == "" ? "-1" : productoSeleccionado.id;
 
-    if (productoId == undefined) return;
+    if (productoId == undefined) productoId = "-1";
 
     return axios
       .get(
@@ -137,6 +138,7 @@ function Producto() {
   const peticionPut = async () => {
     productoSeleccionado.sku = parseInt(productoSeleccionado.sku);
     productoSeleccionado.costo = parseFloat(productoSeleccionado.costo);
+    productoSeleccionado.productosAtributos = atributosCategorias;
 
     await axios
       .put(
@@ -183,20 +185,12 @@ function Producto() {
   }, []);
 
   useEffect(() => {
-    /*if (name == 'categoriaId' && value != ''){
-    }*/
     async function llamada() {
       const response = await atributosCategoriasGet();
       setAtributosCategorias(response.data);
-      // if(response){
-      //   setAtributosCategorias(response.data);
-      // }else{
-      //   setAtributosCategorias([]);
-      // }
-      console.log(response);
     }
     llamada();
-  }, [productoSeleccionado.categoriaId, productoSeleccionado.id]);
+  }, [productoSeleccionado.categoriaId]);
 
   return (
     <div className="App">
@@ -220,6 +214,8 @@ function Producto() {
             <th>SKU</th>
             <th>MARCA</th>
             <th>COSTO</th>
+            <th>ATRIBUTO</th>
+
           </tr>
         </thead>
         <tbody>
@@ -230,6 +226,7 @@ function Producto() {
               <td>{producto.sku}</td>
               <td>{producto.marca}</td>
               <td>{producto.costo}</td>
+              <td>{producto.atributosproductos}</td>
               <td>
                 <button
                   className="btn btn-primary"
@@ -409,6 +406,32 @@ function Producto() {
               value={productoSeleccionado && productoSeleccionado.costo}
             />
           </div>
+          <table className="table table-bordered">
+            <thead>
+              <tr>
+                <th>ATRIBUTO</th>
+                <th>VALOR</th>
+              </tr>
+            </thead>
+            <tbody>
+              {atributosCategorias &&
+                atributosCategorias.map((atributo) => (
+                  <tr key={atributo.atributoId}>
+                    <td>{atributo.atributoDesc}</td>
+                    <td>
+                      {
+                        <input
+                          name={atributo.atributoId}
+                          data-atributoid={atributo.atributoId}
+                          defaultValue={atributo.valor}
+                          onBlur={handleAtributoChange}
+                        />
+                      }
+                    </td>
+                  </tr>
+                ))}
+            </tbody>
+          </table>
         </ModalBody>
         <ModalFooter>
           <button className="btn btn-primary" onClick={() => peticionPut()}>
@@ -435,7 +458,7 @@ function Producto() {
           </button>
           <button
             className="btn btn-secondary"
-            onClick={() => abrirCerrarModalEditar()}
+            onClick={() => abrirCerrarModalEliminar()}
           >
             No
           </button>

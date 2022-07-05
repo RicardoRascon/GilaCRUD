@@ -148,7 +148,7 @@ namespace GilaCRUD.Migrations
                         .IsRequired();
 
                     b.HasOne("GilaCRUD.Models.Producto", "Producto")
-                        .WithMany()
+                        .WithMany("ProductosAtributos")
                         .HasForeignKey("ProductoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -156,6 +156,11 @@ namespace GilaCRUD.Migrations
                     b.Navigation("Atributo");
 
                     b.Navigation("Producto");
+                });
+
+            modelBuilder.Entity("GilaCRUD.Models.Producto", b =>
+                {
+                    b.Navigation("ProductosAtributos");
                 });
 #pragma warning restore 612, 618
         }

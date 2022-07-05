@@ -49,7 +49,26 @@ namespace GilaCRUD.Controllers
         {
             var lista = await _db.Productos.OrderBy(c => c.Nombre).ToListAsync();
 
-            return Ok(lista);
+            var atributosprod = _db.ProductoAtributos.Include(pa => pa.Atributo)
+                                                     .Where(pa => lista.Select(p => p.Id).ToList().Contains(pa.ProductoId))
+                                                     .Select(pa => new
+                                                     {
+                                                         Id = pa.ProductoId,
+                                                         AtributoValor = pa.Atributo.Descripcion + " - " + pa.Valor,
+                                                         Valor = pa.Valor
+                                                     }).ToList();
+
+            var productos = lista.Select(producto => new
+            {
+                Id = producto.Id,
+                Nombre = producto.Nombre,
+                SKU = producto.SKU,
+                Marca = producto.Marca,
+                Costo = producto.Costo,
+                atributosproductos = string.Join(",", atributosprod.Where(ap => ap.Id == producto.Id).Select(ap => ap.AtributoValor).ToList())
+            });
+
+            return Ok(productos);
         }
 
         [HttpGet("{id:int}")]
