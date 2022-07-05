@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LC/B0gsRTicxOOjvnRqnfIPr5ebkkRTIus5oRqR7LTd0mn+6Ay+lALxvxBV4+SS69diIjzGn3hXvlQ/u5ItWBQ==",
+  "dgSpecHash": "vOaWC+e1VQZwHXwqgnoa7pqbRod6TZRpIxvqRiU9p8sMurUedidz5h/cslpGO5qIr3syFyns0+89ydYYCeEmlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ricardo Rascon\\source\\repos\\GilaCRUD\\GilaCRUD\\GilaCRUD.csproj",
+  "projectFilePath": "C:\\Users\\Ricardo Rascon\\source\\repos\\CloneGila\\GilaCRUD\\GilaCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ricardo Rascon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ricardo Rascon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ricardo Rascon\\source\\repos\\GilaCRUD\\GilaCRUD\\GilaCRUD.csproj": {}
+    "C:\\Users\\Ricardo Rascon\\source\\repos\\CloneGila\\GilaCRUD\\GilaCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ricardo Rascon\\source\\repos\\GilaCRUD\\GilaCRUD\\GilaCRUD.csproj": {
+    "C:\\Users\\Ricardo Rascon\\source\\repos\\CloneGila\\GilaCRUD\\GilaCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ricardo Rascon\\source\\repos\\GilaCRUD\\GilaCRUD\\GilaCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\Ricardo Rascon\\source\\repos\\CloneGila\\GilaCRUD\\GilaCRUD.csproj",
         "projectName": "GilaCRUD",
-        "projectPath": "C:\\Users\\Ricardo Rascon\\source\\repos\\GilaCRUD\\GilaCRUD\\GilaCRUD.csproj",
+        "projectPath": "C:\\Users\\Ricardo Rascon\\source\\repos\\CloneGila\\GilaCRUD\\GilaCRUD.csproj",
         "packagesPath": "C:\\Users\\Ricardo Rascon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ricardo Rascon\\source\\repos\\GilaCRUD\\GilaCRUD\\obj\\",
+        "outputPath": "C:\\Users\\Ricardo Rascon\\source\\repos\\CloneGila\\GilaCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ricardo Rascon\\AppData\\Roaming\\NuGet\\NuGet.Config",
