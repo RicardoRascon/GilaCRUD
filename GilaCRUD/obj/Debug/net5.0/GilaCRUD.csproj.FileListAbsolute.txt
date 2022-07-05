@@ -114,3 +114,119 @@ D:\Source\GilaCRUD\GilaCRUD\obj\Debug\net5.0\GilaCRUD.dll
 D:\Source\GilaCRUD\GilaCRUD\obj\Debug\net5.0\ref\GilaCRUD.dll
 D:\Source\GilaCRUD\GilaCRUD\obj\Debug\net5.0\GilaCRUD.pdb
 D:\Source\GilaCRUD\GilaCRUD\obj\Debug\net5.0\GilaCRUD.genruntimeconfig.cache
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\appsettings.Development.json
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\appsettings.json
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\GilaCRUD.exe
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\GilaCRUD.deps.json
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\GilaCRUD.runtimeconfig.json
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\GilaCRUD.runtimeconfig.dev.json
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\GilaCRUD.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\ref\GilaCRUD.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\GilaCRUD.pdb
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Humanizer.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Source\GilaCRUD-master\GilaCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.csproj.AssemblyReference.cache
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.AssemblyInfoInputs.cache
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.AssemblyInfo.cs
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.csproj.CoreCompileInputs.cache
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\scopedcss\bundle\GilaCRUD.styles.css
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\staticwebassets\GilaCRUD.StaticWebAssets.Manifest.cache
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.RazorTargetAssemblyInfo.cache
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.csproj.CopyComplete
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.dll
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\ref\GilaCRUD.dll
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.pdb
+D:\Source\GilaCRUD-master\GilaCRUD\obj\Debug\net5.0\GilaCRUD.genruntimeconfig.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\appsettings.json
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\GilaCRUD.exe
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\GilaCRUD.deps.json
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\GilaCRUD.runtimeconfig.json
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\GilaCRUD.runtimeconfig.dev.json
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\GilaCRUD.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\GilaCRUD.pdb
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.csproj.AssemblyReference.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.AssemblyInfoInputs.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.AssemblyInfo.cs
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\scopedcss\bundle\GilaCRUD.styles.css
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\staticwebassets\GilaCRUD.StaticWebAssets.Manifest.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.csproj.CopyComplete
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\refint\GilaCRUD.dll
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.pdb
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\GilaCRUD.genruntimeconfig.cache
+C:\Users\Ricardo Rascon\source\repos\CloneGila\GilaCRUD\obj\Debug\net5.0\ref\GilaCRUD.dll
